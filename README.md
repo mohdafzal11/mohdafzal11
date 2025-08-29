@@ -1,105 +1,41 @@
-###
-<h2 align="center">Learning new things everyday ⚡️</h2>
+<h1 align="center">Hi, I'm Afzal 👋</h1>
 
+💡 **About Me:**  
+🚀 Passionate about building scalable web applications and blockchain projects.  
+🎯 Currently learning **Rust** & **Golang** to enhance my backend skills.  
+🔍 Exploring **Decentralized Finance (DeFi)** & **Web3 Development**.  
+📫 Reach me at: **afzalnaved00000@gmail.com**  
 
-<a href="https://github.com/mohdafzal11">
-  <img align="right" src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif?cid=790b7611t7rjt6nthbyc6cxxcbh1w4j30523v569jn6mgsel&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
-</a>
+### 🌎 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-afzal-6baa86205/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/afzal_onchain)  
+🌐 **Portfolio:** [afzal-portfolio-eta.vercel.app](https://afzal-portfolio-eta.vercel.app/)  
 
-### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtjNHp5a3BtYW1saXFyODUycjdjNHJ2OTRvdGJlY2tpbGk3amhrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkW0maGDN1eSc/giphy.gif" width="40" align="absmiddle"> Account Status : 
+---
 
-<details>
-  <summary>Details</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=mohdafzal11&show_icons=true&theme=tokyonight" />
-</details>
+## 🛠️ Tech Stack:
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohdafzal11&layout=compact&theme=tokyonight)
+### **🚀 Programming Languages:**  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 
-<h2 align="left">
-  <img src="https://media.giphy.com/media/QVz8bVdhi6dmkIkg61/giphy.gif" width="40" align="absmiddle" />
-  <span style="margin-left:6px;">Tech Stack :</span>
-</h2>
+### **🖥️ Web & Backend Development:**  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  
 
-<div align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-         alt="JavaScript" style="height:35px;width:auto;margin-right:12px;vertical-align:middle;" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-         alt="TypeScript" style="height:35px;width:auto;margin-right:12px;vertical-align:middle;" />
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-         alt="React" style="height:35px;width:auto;margin-right:12px;vertical-align:middle;" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-         alt="Next.js" style="height:35px;width:auto;margin-right:12px;vertical-align:middle;background:white;border-radius:6px;padding:3px;" />
-  </a>
-  <a href="https://go.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
-         alt="Golang" style="height:35px;width:auto;margin-right:12px;vertical-align:middle;" />
-  </a>
-  <a href="https://www.rust-lang.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/rust/FFFFFF"
-         alt="Rust"
-         style="height:35px;width:auto;margin-right:12px;vertical-align:middle;
-                background:#dea584;border-radius:6px;padding:4px;" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-         alt="MongoDB" style="height:35px;width:auto;margin-right:12px;vertical-align:middle;" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-         alt="PostgreSQL" style="height:35px;width:auto;margin-right:12px;vertical-align:middle;" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-         alt="Docker" style="height:35px;width:auto;margin-right:12px;vertical-align:middle;" />
-  </a>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
-         alt="Kubernetes" style="height:35px;width:auto;margin-right:12px;vertical-align:middle;" />
-  </a>
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
-         alt="Google Cloud" style="height:35px;width:auto;margin-right:12px;vertical-align:middle;" />
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg"
-         alt="AWS" style="height:35px;width:auto;margin-right:12px;vertical-align:middle;" />
-  </a>
-  <a href="https://redis.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
-         alt="Redis" style="height:35px;width:auto;margin-right:12px;vertical-align:middle;" />
-  </a>
+### **💾 Databases & Cloud:**  
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
+
+### **⚡ Tools & DevOps:**  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![PostHog](https://img.shields.io/badge/PostHog-%234ea94b.svg?style=for-the-badge&logo=posthog&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdafzal11&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/all-languages/?username=mohdafzal11&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
+---
 
-<h3><img src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif?cid=ecf05e47246z68gic13exguovr5xae6jhotnfa5nmu0evi54&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60" align="absmiddle"> Let's Connect - </h3>
-
-<table width="120" align="left">
-  <tr>  
-    <td align="center" width="60">
-      <a href="https://x.com/MohdAfz04739022"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" width="60"></a>
-    </td>
-    <td align="center" width="60">
-      <a href="https://www.linkedin.com/in/mohd-afzal-6baa86205/"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" height="36" width="65"></a>
-    </td>
-    <td align="center" width="60">
-      <a href="mailto:afzalnaved0000@gmail.com"><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="80"></a>
-    </td>
-    <td align="center" width="60">
-      <a href="https://drive.google.com/file/d/1dhF0Cgaec0zOatK4N7NAfenpIli0GkQU/view?usp=sharing"><img src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true" width="60"></a>
-    </td>
-  </tr>
-</table>
-<br />
-<br />
-
-<div align="left">
-  <h2><b>👀 Visitor Count</b></h2>
-  <img src="https://count.getloli.com/@mohdafzal11?theme=booru-huggboo" alt="Mohd Afzal" />
-</div>
+🚀 **Let's Connect & Build Something Awesome Together!** 🚀  
