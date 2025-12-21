@@ -9,7 +9,7 @@
 ### 🌎 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-afzal-6baa86205/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/afzal_onchain)  
-🌐 **Portfolio:** [afzal-portfolio-eta.vercel.app](https://afzal-portfolio-eta.vercel.app/)  
+🌐 **Portfolio:** [afzal-pages.dev](https://afzal.pages.dev/)  
 
 ---
 
